@@ -2,6 +2,10 @@
 # Nginx-GUI-Tool
 A Cross-platform GUI Configuration Tool For Nginx.
 
+[![Build Status](]()
+[![Packagist]()]()
+[![Electron]()]()
+
 [Home Page](https://www.itmangoto.cn) | [官方主页](https://www.itmangoto.cn) | [中文说明](https://www.itmangoto.cn) | [文档手册](https://www.itmangoto.cn).
 
 ### Requirements
