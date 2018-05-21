@@ -1,2 +1,4 @@
 # NginxConfiguration
-A GUI tool to configure nginx.
+A GUI Tool To Configure Nginx.
+
+
