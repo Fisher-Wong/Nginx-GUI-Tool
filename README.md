@@ -1,4 +1,4 @@
-![logo](https://www.itmangoto.cn/wp-content/uploads/2017/12/fish_logo.jpg)
+![logo](https://www.itmangoto.cn/wp-content/uploads/2018/05/logo_nginx_gui_tool.jpg)
 
 # Nginx-GUI-Tool
 
