@@ -1,7 +1,7 @@
 ![logo](https://www.itmangoto.cn/wp-content/uploads/2017/12/fish_logo.jpg)
 
 # Nginx-GUI-Tool
-===========================
+====
 A Cross-platform GUI Configuration Tool For Nginx.
 
 ****
