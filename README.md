@@ -20,40 +20,32 @@ A Cross-platform GUI Configuration Tool For Nginx.
 
 ****
 ### About This Project
-****
+
 
 ****
 ### Download And Installation
-****
 
+****
 ### Quick Start
 
 ****
-
 ### Screenshots
 
 ****
-
 ### Build From Source Code
 
 ****
-
 ### Architecture
 
 ****
-
 ### Change Log
 
 ****
-
 ### To Do List
 
 ****
-
 ### How To Join And Contribute
 
 ****
-
 ### Donate
 
-****
