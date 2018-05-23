@@ -12,7 +12,7 @@ A Cross-platform GUI Configuration Tool For Nginx.
 
 ****
 
-[Home Page](https://www.itmangoto.cn) | [官方主页](https://www.itmangoto.cn) | [中文说明](https://www.itmangoto.cn) | [文档手册](https://www.itmangoto.cn).
+[Home Page](https://www.itmangoto.cn) | [中文主页](https://www.itmangoto.cn) | [English Docs](https://www.itmangoto.cn) | [中文文档](https://www.itmangoto.cn)
 
 ### Installation
 ### Quick Start
