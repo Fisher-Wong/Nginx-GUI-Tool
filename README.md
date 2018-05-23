@@ -26,7 +26,7 @@ A Cross-platform GUI Configuration Tool For Nginx.
 
 ### Architecture
 
-### ChangeLog
+### Change Log
 
 ### To Do List
 
