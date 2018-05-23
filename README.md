@@ -22,9 +22,9 @@ A Cross-platform GUI Configuration Tool For Nginx.
 3. So I planned to develop a GUI tool to help configuring nginx.
 4. Performance requirement is unnecessary in this project,so I planed to develop it based on Electron so that it can cross platform.
 5. According to my idea,this project can help people easily create a configuration file for nginx and dealing other things:
- - Help people understand the config file of nginx.A GUI tool with some notice may be a better way for people to learn how to use nginx.
- - Help improving the runtime-performance.
- - Help writing a nginx config file with better security.
+- Help people understand the config file of nginx.A GUI tool with some notice may be a better way for people to learn how to use nginx.
+- Help improving the runtime-performance.
+- Help writing a nginx config file with better security.
 6. And I think it would be a better tool if it can run a test on different versions of ngix as soon as the config file is generated.
 7. It may be a long way,I hope I could hang on.
 8. Thanks for ready and it would be better if you could donate this project.
