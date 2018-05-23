@@ -1,5 +1,7 @@
 ![logo](https://www.itmangoto.cn/wp-content/uploads/2018/05/logo_nginx_gui_tool.jpg)
 
+****
+
 # Nginx-GUI-Tool
 
 A Cross-platform GUI Configuration Tool For Nginx.
@@ -17,13 +19,11 @@ A Cross-platform GUI Configuration Tool For Nginx.
 | 开发笔记 | https://www.itmangoto.cn |
 
 ****
-
 ### About This Project
-
 ****
 
+****
 ### Download And Installation
-
 ****
 
 ### Quick Start
