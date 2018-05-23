@@ -6,8 +6,9 @@ A Cross-platform GUI Configuration Tool For Nginx.
 
 ****
 
-|Author| 爱唠叨的老鱼（Mr.Wong）|
+
 |---|---|
+|Author| 爱唠叨的老鱼（Mr.Wong）|
 |E-mail| masterwong@itmangoto.cn |
 |Home Page| https://www.itmangoto.cn |
 |中文主页| https://www.itmangoto.cn |
