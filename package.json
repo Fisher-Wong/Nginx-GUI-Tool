@@ -1,22 +1,29 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "Nginx-GUI-Tool",
+  "version": "0.0.1",
+  "description": "A Cross-platform GUI Configuration Tool For Nginx.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Fisher-Wong/Nginx-GUI-Tool.git",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Nginx",
+    "GUI",
+    "Configuration",
+    "Config",
+    "electron",
+    "Cross-platform",
+    "open source"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Master Wong",
+  "license": "GPL-3.0",
   "devDependencies": {
-    "electron": "^2.0.0"
+    "electron": "^2.0.2",
+    "electron-packager": "^12.1.0"
+  },
+  "dependencies": {
+    "electron-builder": "^20.14.7",
+    "electron-prebuilt": "^1.4.13"
   }
 }
