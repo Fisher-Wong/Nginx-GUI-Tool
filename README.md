@@ -30,6 +30,12 @@ A Cross-platform GUI Configuration Tool For Nginx.
 - Thanks for ready and it would be better if you could donate this project.
 
 ****
+### Supported Platforms
+- Windows (32/64 bit)
+- OS X
+- Linux (x86/x86_64)
+
+****
 ### Download And Installation
 
 ****
