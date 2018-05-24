@@ -1,45 +1,65 @@
-# electron-quick-start
+![logo](https://www.itmangoto.cn/wp-content/uploads/2018/05/logo_nginx_gui_tool.jpg)
 
-**Clone and run for a quick way to see Electron in action.**
+****
+# Nginx-GUI-Tool
+A Cross-platform GUI Configuration Tool For Nginx.
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+****
+| Author | 爱唠叨的老鱼（Mr.Wong）|
+| :------ | :--------- |
+| E-mail | masterwong@itmangoto.cn |
+| Home Page | https://www.itmangoto.cn |
+| Development Blog | https://www.itmangoto.cn |
+| Documentation | https://www.itmangoto.cn |
+| 中文主页 | https://www.itmangoto.cn |
+| 中文文档 | https://www.itmangoto.cn |
+| 开发笔记 | https://www.itmangoto.cn |
 
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
+****
+### About This Project
+- Nginx is one of the most popular open-source software around the world.It is powerful.However it is not easy to configure.
+- Before I started this project,I had already developed a cmd-line tool to help configuring nginx.But it didn't satisfy me.
+- So I planned to develop a GUI tool to help configuring nginx.
+- Performance requirement is unnecessary in this project,so I planed to develop it based on Electron so that it can cross platform.
+- According to my idea,this project can help people easily create a configuration file for nginx and dealing other things:
+    - Help people understand the config file of nginx with some notice.
+    - Help improving the runtime-performance of nginx.
+    - Optimization the nginx config file to get better security.
+- And I think it would be a better tool if it can run a test on different versions of ngix as soon as the config file is generated.
+- It may be a long way,I hope I could hang on.
+- Thanks for ready and it would be better if you could donate this project.
 
-A basic Electron application needs just these files:
+****
+### Supported Platforms
+- Windows (32/64 bit)
+- OS X
+- Linux (x86/x86_64)
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
+****
+### Download And Installation
 
-You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
+****
+### Quick Start
 
-## To Use
+****
+### Screenshots
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+****
+### Build From Source Code
 
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
-```
+****
+### Architecture
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+****
+### Change Log
 
-## Resources for Learning Electron
+****
+### To Do List
 
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - a very basic starter Electron app
-- [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
-- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
-- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
+****
+### How To Join And Contribute
 
-## License
+****
+### Donate
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+>>>>>>> e225fdd666b5a18a0e2c68fb25eff49e53de595f
