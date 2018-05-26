@@ -61,5 +61,3 @@ A Cross-platform GUI Configuration Tool For Nginx.
 
 ****
 ### Donate
-
->>>>>>> e225fdd666b5a18a0e2c68fb25eff49e53de595f
