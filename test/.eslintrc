@@ -1,11 +1,13 @@
 {
   "env": {
-    "mocha": true
+    "jest/globals": true
   },
-  "globals": {
-    "assert": true,
-    "expect": true,
-    "should": true,
-    "__static": true
+  "plugins": [
+    "jest"
+  ],
+  "rules": {
+    "jest/no-disabled-tests": "warn",
+    "jest/no-focused-tests": "error",
+    "jest/no-identical-title": "error"
   }
 }
